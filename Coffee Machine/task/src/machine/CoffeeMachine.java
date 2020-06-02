@@ -9,6 +9,12 @@ public class CoffeeMachine {
     static private int coffeeBeans = 120;
     static private int disposableCups = 9;
     static private int money = 550;
+    private enum State
+    {
+       BUY,
+       FILL
+    }
+
 
     static private void showState() {
         System.out.println("The coffee machine has:");
