@@ -27,6 +27,10 @@ topics:
   - title: Printing data
     theory_id: 3749
   1:
+  - title: Computer programming
+    theory_id: 8739
+  - title: Introduction to operating systems
+    theory_id: 9704
   - title: Command line overview
     theory_id: 8977
   - title: Types and variables
